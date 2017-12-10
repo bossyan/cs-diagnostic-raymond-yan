@@ -1,5 +1,5 @@
 // Solution to Problem 6
-
+'use strict';
 let fibonacci_iterative = num => {
   let a = 1;
   let b = 0;

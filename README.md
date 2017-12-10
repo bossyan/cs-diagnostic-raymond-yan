@@ -16,3 +16,11 @@ What is the difference between an interpreted and a compiled language?  What are
 An algorithm is like deciding how to get to school from your house. There are multiple ways to get to school. You can walk, run, drive, or get a ride. You will pick one of those options based on how fast or slow you want to get there and how you feel at the moment.
 
 For example, let's choose driving, in order to get to school by driving. You would have you ask yourself "Do I have a car?", if Yes, get in the car and drive. If No, choose another option to get to school. Let's say we have a car. We have multiple ways to get to school, do we want to go on the freeway or stop-and-go streets? Once you choose a way to get to school, you have to figure out if there's traffic or not and whether you want to be in traffic. Once you decide, you will get to your final destination.
+
+
+## Problem 11: Inheritance
+In 1 to 2 paragraphs, explain the concept of Inheritance from OOP and why it is useful to programmers.  When possible, use analogies or examples that non-coders can understand.
+
+Inheritance is when you have a class. For example, Vehicle, a vehicle has wheels, make, model, color and actions such as the horn, brake, acceleration. Trucks and Cars are two different vehicles but they share the same feature. They both have wheels, make, model, color and same actions.
+
+Car can inherit from Vehicle and Truck can inherit from Vehicle. Each type of vehicle can have different properties such as a Truck can have more than 4 wheels
